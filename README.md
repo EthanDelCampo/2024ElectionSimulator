@@ -5,3 +5,6 @@ This project is a basic implementation of simulating election outcomes of the 20
 DISCLAIMER: I am NOT a political scientist. This is just simulating possible outcomes of this year's Electoral College, assuming no drastic changes in the current political field.
 
 I made this project in Summer 2023, electoral odds last updated 7/20/2024.
+
+# Update (7/27/2024):
+On 7/21/2024, President Joe Biden announced his withdrawal from the race; Kamala Harris is now the presumptive Democratic nominee. Once more polling data comes in for Kamala Harris' odds, I will update my project accordingly.
